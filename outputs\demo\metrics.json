@@ -1,0 +1,7 @@
+{
+  "auroc": 0.7841166666666666,
+  "average_precision": 0.5711001400318906,
+  "brier_score": 0.15001876841051337,
+  "recall_at_10pct_capacity": 0.26,
+  "group_1_share_selected": 0.2625
+}
